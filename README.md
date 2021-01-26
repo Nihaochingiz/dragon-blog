@@ -1,2 +1,2 @@
 # dragon-blog
-my first blog
+Blog on Django
